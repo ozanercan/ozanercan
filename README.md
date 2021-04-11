@@ -23,3 +23,4 @@ E-Posta: ozanercan07@outlook.com<br>
 E-Posta: info@ozanercan.com.tr<br>
 Gsm: +90 507 147 6818<br>
 Kişisel Sitem: https://www.ozanercan.com.tr (Tasarım Aşamasında)
+Linkedin: https://www.linkedin.com/in/ozan-ercan-6b088b145/
