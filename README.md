@@ -20,5 +20,5 @@ Burada paylaştığım projeler kendimi geliştirmek için ya da öğrenmek iste
 Benimle iletişime geçmek için aşağıdaki iletişim yollarından herhangi birini kullanabilirsiniz.
 
 E-Posta: ozanercan07@outlook.com<br>
-Kişisel Sitem: https://www.ozanercan.com.tr (Tasarım Aşamasında)<br>
+Kişisel Sitem: https://www.ozanercan.com.tr<br>
 Linkedin: https://www.linkedin.com/in/ozan-ercan-6b088b145/
