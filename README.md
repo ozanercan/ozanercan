@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Merhaba, ben Ozan. 26 yaşında C# dilini benimsemiş bir Yazılım Geliştiriciyim.<br>
+Merhaba, ben Ozan. 28 yaşında C# dilini benimsemiş bir Yazılım Geliştiriciyim.<br>
 Burada paylaştığım projeler kendimi geliştirmek için ya da öğrenmek istediğim teknolojilerle ilgili yapmış olduğum çalışmaları barındırır.<br>
 Benimle iletişime geçmek için aşağıdaki iletişim yollarından herhangi birini kullanabilirsiniz.
 
